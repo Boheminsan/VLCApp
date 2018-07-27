@@ -1,0 +1,13 @@
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\VLCapp.exe.config
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\VLCapp.exe
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\VLCapp.pdb
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\Vlc.DotNet.Core.dll
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\Vlc.DotNet.Core.Interops.dll
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\bin\x86\Release\Vlc.DotNet.Forms.dll
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.Form1.resources
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.exe
+C:\Users\Yusuf\Desktop\VLCapp\VLCapp\VLCapp\obj\x86\Release\VLCapp.pdb
